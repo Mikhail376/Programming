@@ -1,0 +1,394 @@
+2026-04-10 09:56:02.224 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 09:56:02.229 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 09:56:02.229 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 09:56:02.233 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 09:56:02.323 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 09:56:02.326 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 09:57:38.015 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 09:57:38.021 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 09:57:38.022 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 09:57:38.027 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 09:57:38.149 [main] INFO  server.Server - Сервер успешно запущен на порту 12345
+2026-04-10 09:57:38.154 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 09:57:45.082 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:57241
+2026-04-10 09:57:45.090 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 09:57:48.096 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:57243
+2026-04-10 09:57:48.097 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 09:57:51.103 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:57244
+2026-04-10 09:57:51.104 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 09:57:54.108 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:57245
+2026-04-10 09:57:54.109 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 09:57:57.111 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:57246
+2026-04-10 09:57:57.112 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 09:58:00.122 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:57247
+2026-04-10 09:58:00.123 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 09:58:03.128 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:57248
+2026-04-10 09:58:03.130 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 10:00:20.419 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 10:00:20.423 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 10:00:20.423 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 10:00:20.426 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 10:00:20.493 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 10:00:20.496 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 10:00:40.933 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:51985
+2026-04-10 10:00:40.939 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 10:00:43.948 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:51987
+2026-04-10 10:00:43.949 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 10:00:46.965 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:51988
+2026-04-10 10:00:46.965 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 10:00:49.977 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:51989
+2026-04-10 10:00:49.978 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 10:00:52.984 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:51990
+2026-04-10 10:00:52.985 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 10:00:55.992 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:51991
+2026-04-10 10:00:55.994 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 10:00:58.998 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:51993
+2026-04-10 10:00:58.999 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 10:01:02.003 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:51994
+2026-04-10 10:01:02.004 [main] ERROR server.Server - Ошибка при обработке данных от клиента: null
+2026-04-10 10:08:58.446 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 10:08:58.451 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 10:08:58.451 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 10:08:58.455 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 10:08:58.520 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 10:08:58.523 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 10:09:05.506 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:51446
+2026-04-10 10:09:05.511 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 10:09:08.525 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:51448
+2026-04-10 10:09:08.526 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 10:09:11.538 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:51449
+2026-04-10 10:09:11.539 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 10:09:14.555 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:51450
+2026-04-10 10:09:14.556 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 10:09:48.759 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 10:09:48.762 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 10:09:48.763 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 10:09:48.766 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 10:09:48.830 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 10:09:48.833 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 10:09:53.073 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:58611
+2026-04-10 10:09:53.079 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 10:09:56.088 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:58613
+2026-04-10 10:09:56.089 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 10:09:59.092 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:58614
+2026-04-10 10:09:59.093 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 10:10:02.107 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:58615
+2026-04-10 10:10:02.108 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 11:07:42.428 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 11:07:42.432 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 11:07:42.432 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 11:07:42.436 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 11:07:42.501 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 11:07:42.504 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 11:07:50.133 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:50363
+2026-04-10 11:08:01.640 [main] INFO  server.Server - Получен запрос: 'show' от /127.0.0.1:50363
+2026-04-10 11:08:01.640 [main] INFO  server.commands.ShowCommand - Запрос на отображение всей коллекции.
+2026-04-10 11:08:01.640 [main] INFO  server.commands.ShowCommand - Коллекция пуста.
+2026-04-10 11:08:01.642 [main] INFO  server.Server - Ответ отправлен клиенту /127.0.0.1:50363
+2026-04-10 11:08:18.076 [main] INFO  server.Server - Получен запрос: 'help' от /127.0.0.1:50363
+2026-04-10 11:08:18.080 [main] INFO  server.Server - Ответ отправлен клиенту /127.0.0.1:50363
+2026-04-10 11:09:35.280 [main] ERROR server.Server - Ошибка при обработке данных от клиента: Connection reset
+2026-04-10 11:13:07.199 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 11:13:07.203 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 11:13:07.203 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 11:13:07.206 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 11:13:07.273 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 11:13:07.276 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 11:13:07.661 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:55111
+2026-04-10 11:13:19.282 [main] INFO  server.Server - Получен запрос: 'help' от /127.0.0.1:55111
+2026-04-10 11:13:19.287 [main] INFO  server.Server - Ответ отправлен клиенту /127.0.0.1:55111
+2026-04-10 11:14:12.837 [main] INFO  server.Server - Получен запрос: 'info' от /127.0.0.1:55111
+2026-04-10 11:14:12.837 [main] INFO  server.commands.InfoCommand - Запрос информации о коллекции.
+2026-04-10 11:14:12.838 [main] INFO  server.Server - Ответ отправлен клиенту /127.0.0.1:55111
+2026-04-10 11:15:25.113 [main] INFO  server.Server - Получен запрос: 'insert' от /127.0.0.1:55111
+2026-04-10 11:15:25.117 [main] INFO  server.commands.InsertCommand - Добавлен новый дракон: ключ 1, ID 1, имя '234'.
+2026-04-10 11:15:25.119 [main] INFO  server.Server - Ответ отправлен клиенту /127.0.0.1:55111
+2026-04-10 11:15:31.187 [main] INFO  server.Server - Получен запрос: 'show' от /127.0.0.1:55111
+2026-04-10 11:15:31.187 [main] INFO  server.commands.ShowCommand - Запрос на отображение всей коллекции.
+2026-04-10 11:15:31.187 [main] INFO  server.commands.ShowCommand - Коллекция успешно подготовлена для отправки клиенту. Элементов: 1
+2026-04-10 11:15:31.191 [main] ERROR server.Server - Ошибка при обработке данных от клиента: java.util.TreeMap$Values
+2026-04-10 11:15:34.195 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:51227
+2026-04-10 11:15:38.469 [main] INFO  server.Server - Получен запрос: 'show' от /127.0.0.1:51227
+2026-04-10 11:15:38.469 [main] INFO  server.commands.ShowCommand - Запрос на отображение всей коллекции.
+2026-04-10 11:15:38.469 [main] INFO  server.commands.ShowCommand - Коллекция успешно подготовлена для отправки клиенту. Элементов: 1
+2026-04-10 11:15:38.469 [main] ERROR server.Server - Ошибка при обработке данных от клиента: java.util.TreeMap$Values
+2026-04-10 11:15:41.475 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:53029
+2026-04-10 11:15:50.487 [main] INFO  server.Server - Получен запрос: 'show' от /127.0.0.1:53029
+2026-04-10 11:15:50.488 [main] INFO  server.commands.ShowCommand - Запрос на отображение всей коллекции.
+2026-04-10 11:15:50.488 [main] INFO  server.commands.ShowCommand - Коллекция успешно подготовлена для отправки клиенту. Элементов: 1
+2026-04-10 11:15:50.489 [main] ERROR server.Server - Ошибка при обработке данных от клиента: java.util.TreeMap$Values
+2026-04-10 11:15:53.491 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:53030
+2026-04-10 11:16:36.186 [main] ERROR server.Server - Ошибка при обработке данных от клиента: Connection reset
+2026-04-10 18:22:18.930 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 18:22:18.939 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 18:22:18.940 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 18:22:18.950 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 18:22:19.044 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 18:22:19.047 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 18:22:30.007 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:50145
+2026-04-10 18:23:09.860 [main] ERROR server.Server - Ошибка при обработке данных от клиента: Connection reset
+2026-04-10 18:24:52.531 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:61167
+2026-04-10 19:52:21.242 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 19:52:21.247 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 19:52:21.247 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 19:52:21.251 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 19:52:21.340 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 19:52:21.343 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 19:52:25.685 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:63099
+2026-04-10 19:52:25.698 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 19:52:28.712 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:62026
+2026-04-10 19:52:28.713 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 19:52:31.730 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:62027
+2026-04-10 19:52:31.731 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 19:52:34.735 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:62028
+2026-04-10 19:52:34.737 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 19:55:05.737 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 19:55:05.743 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 19:55:05.744 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 19:55:05.748 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 19:55:05.854 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 19:55:05.858 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 19:55:08.493 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:64819
+2026-04-10 19:56:29.411 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 19:56:29.416 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 19:56:29.418 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 19:56:29.424 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 19:56:29.545 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 19:56:29.549 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 19:56:30.689 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:54187
+2026-04-10 19:56:37.364 [main] INFO  server.Server - Получен запрос: 'show' от /127.0.0.1:54187
+2026-04-10 19:56:37.364 [main] INFO  server.commands.ShowCommand - Запрос на отображение всей коллекции.
+2026-04-10 19:56:37.364 [main] INFO  server.commands.ShowCommand - Коллекция пуста.
+2026-04-10 19:56:37.367 [main] INFO  server.Server - Ответ отправлен клиенту /127.0.0.1:54187
+2026-04-10 19:56:40.950 [main] INFO  server.Server - Получен запрос: 'help' от /127.0.0.1:54187
+2026-04-10 19:56:40.957 [main] INFO  server.Server - Ответ отправлен клиенту /127.0.0.1:54187
+2026-04-10 19:56:46.656 [main] INFO  server.Server - Получен запрос: 'indert' от /127.0.0.1:54187
+2026-04-10 19:56:46.658 [main] INFO  server.Server - Ответ отправлен клиенту /127.0.0.1:54187
+2026-04-10 19:57:31.643 [main] INFO  server.Server - Получен запрос: 'insert' от /127.0.0.1:54187
+2026-04-10 19:57:31.648 [main] INFO  server.commands.InsertCommand - Добавлен новый дракон: ключ 5, ID 1, имя 'd'.
+2026-04-10 19:57:31.652 [main] INFO  server.Server - Ответ отправлен клиенту /127.0.0.1:54187
+2026-04-10 19:57:35.985 [main] INFO  server.Server - Получен запрос: 'show' от /127.0.0.1:54187
+2026-04-10 19:57:35.985 [main] INFO  server.commands.ShowCommand - Запрос на отображение всей коллекции.
+2026-04-10 19:57:35.986 [main] INFO  server.commands.ShowCommand - Коллекция успешно подготовлена для отправки клиенту. Элементов: 1
+2026-04-10 19:57:35.993 [main] ERROR server.Server - Ошибка при обработке данных от клиента: java.util.TreeMap$Values
+2026-04-10 19:57:38.999 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:54188
+2026-04-10 19:57:42.033 [main] INFO  server.Server - Получен запрос: 'show' от /127.0.0.1:54188
+2026-04-10 19:57:42.033 [main] INFO  server.commands.ShowCommand - Запрос на отображение всей коллекции.
+2026-04-10 19:57:42.033 [main] INFO  server.commands.ShowCommand - Коллекция успешно подготовлена для отправки клиенту. Элементов: 1
+2026-04-10 19:57:42.035 [main] ERROR server.Server - Ошибка при обработке данных от клиента: java.util.TreeMap$Values
+2026-04-10 19:57:45.039 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:53647
+2026-04-10 19:57:51.198 [main] INFO  server.Server - Получен запрос: 'help' от /127.0.0.1:53647
+2026-04-10 19:57:51.200 [main] INFO  server.Server - Ответ отправлен клиенту /127.0.0.1:53647
+2026-04-10 19:58:30.955 [main] INFO  server.Server - Получен запрос: 'show' от /127.0.0.1:53647
+2026-04-10 19:58:30.955 [main] INFO  server.commands.ShowCommand - Запрос на отображение всей коллекции.
+2026-04-10 19:58:30.955 [main] INFO  server.commands.ShowCommand - Коллекция успешно подготовлена для отправки клиенту. Элементов: 1
+2026-04-10 19:58:30.956 [main] ERROR server.Server - Ошибка при обработке данных от клиента: java.util.TreeMap$Values
+2026-04-10 19:58:33.972 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:60513
+2026-04-10 19:58:36.855 [main] INFO  server.Server - Получен запрос: 'info' от /127.0.0.1:60513
+2026-04-10 19:58:36.855 [main] INFO  server.commands.InfoCommand - Запрос информации о коллекции.
+2026-04-10 19:58:36.857 [main] INFO  server.Server - Ответ отправлен клиенту /127.0.0.1:60513
+2026-04-10 19:59:14.388 [main] INFO  server.Server - Получен запрос: 'update' от /127.0.0.1:60513
+2026-04-10 19:59:14.392 [main] INFO  server.commands.UpdateCommand - Объект с ID 1 (ключ 5) успешно обновлен.
+2026-04-10 19:59:14.393 [main] INFO  server.Server - Ответ отправлен клиенту /127.0.0.1:60513
+2026-04-10 19:59:18.958 [main] INFO  server.Server - Получен запрос: 'show' от /127.0.0.1:60513
+2026-04-10 19:59:18.958 [main] INFO  server.commands.ShowCommand - Запрос на отображение всей коллекции.
+2026-04-10 19:59:18.958 [main] INFO  server.commands.ShowCommand - Коллекция успешно подготовлена для отправки клиенту. Элементов: 1
+2026-04-10 19:59:18.959 [main] ERROR server.Server - Ошибка при обработке данных от клиента: java.util.TreeMap$Values
+2026-04-10 19:59:21.974 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:60515
+2026-04-10 20:05:57.418 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 20:05:57.424 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 20:05:57.424 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 20:05:57.430 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 20:05:57.562 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 20:05:57.566 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 20:05:58.564 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:63619
+2026-04-10 20:05:58.575 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 20:06:01.583 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:63620
+2026-04-10 20:06:01.584 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 20:06:04.587 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:63621
+2026-04-10 20:06:04.588 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 20:06:07.597 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:63622
+2026-04-10 20:06:07.598 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 20:06:10.608 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:63623
+2026-04-10 20:06:10.609 [main] ERROR server.Server - Ошибка при обработке данных от клиента: EOFException
+2026-04-10 20:07:24.907 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 20:07:24.912 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 20:07:24.912 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 20:07:24.916 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 20:07:24.998 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 20:07:25.001 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 20:07:31.742 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:59950
+2026-04-10 20:07:51.317 [main] ERROR server.Server - Ошибка при обработке данных от клиента: Connection reset
+2026-04-10 20:07:51.834 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:59954
+2026-04-10 20:09:28.431 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 20:09:28.435 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 20:09:28.436 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 20:09:28.440 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 20:09:28.525 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 20:09:28.528 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 20:09:30.002 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:52421
+2026-04-10 20:10:02.553 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 20:10:02.560 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 20:10:02.561 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 20:10:02.566 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 20:10:02.682 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 20:10:02.686 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступны команды: save, exit
+2026-04-10 20:10:09.719 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:52427
+2026-04-10 20:12:11.047 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 20:12:11.053 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 20:12:11.054 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 20:12:11.059 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 20:12:11.162 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 20:12:11.166 [Thread-0] INFO  server.Server - Консоль сервера готова. Команды: save, exit
+2026-04-10 20:12:16.295 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:49891
+2026-04-10 20:12:16.304 [main] ERROR server.Server - Ошибка обработки запроса: EOFException
+2026-04-10 20:12:18.321 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:49893
+2026-04-10 20:12:18.322 [main] ERROR server.Server - Ошибка обработки запроса: EOFException
+2026-04-10 20:12:20.330 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:49894
+2026-04-10 20:12:20.331 [main] ERROR server.Server - Ошибка обработки запроса: EOFException
+2026-04-10 20:12:22.343 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:49895
+2026-04-10 20:12:22.344 [main] ERROR server.Server - Ошибка обработки запроса: EOFException
+2026-04-10 20:12:24.358 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:49896
+2026-04-10 20:12:24.359 [main] ERROR server.Server - Ошибка обработки запроса: EOFException
+2026-04-10 20:12:26.361 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:49897
+2026-04-10 20:12:26.362 [main] ERROR server.Server - Ошибка обработки запроса: EOFException
+2026-04-10 20:12:28.367 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:49898
+2026-04-10 20:12:28.367 [main] ERROR server.Server - Ошибка обработки запроса: EOFException
+2026-04-10 20:12:30.381 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:49899
+2026-04-10 20:12:30.382 [main] ERROR server.Server - Ошибка обработки запроса: EOFException
+2026-04-10 20:14:50.871 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 20:14:50.878 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 20:14:50.878 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 20:14:50.883 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 20:14:51.009 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 20:14:51.013 [Thread-0] INFO  server.Server - Консоль сервера готова. Команды: save, exit
+2026-04-10 20:15:00.027 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:62988
+2026-04-10 20:15:31.069 [main] ERROR server.Server - Ошибка обработки запроса: SocketException
+2026-04-10 20:15:31.791 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:62993
+2026-04-10 20:16:06.637 [Thread-0] INFO  server.commands.SaveCommand - Начало процесса сохранения коллекции...
+2026-04-10 20:16:06.640 [Thread-0] INFO  server.manager.FileManager - Коллекция успешно сохранена в файл: dragons.xml
+2026-04-10 20:16:06.641 [Thread-0] INFO  server.commands.SaveCommand - Коллекция успешно сохранена. Элементов обработано: 0
+2026-04-10 20:21:05.521 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 20:21:05.531 [main] INFO  server.manager.FileManager - Из файла успешно загружено элементов: 0
+2026-04-10 20:21:05.532 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 20:21:05.535 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 20:21:05.601 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 20:21:05.603 [Thread-0] INFO  server.Server - Консоль сервера готова. Команды: save, exit
+2026-04-10 20:21:10.891 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:59864
+2026-04-10 20:22:07.150 [main] INFO  server.Server - Клиент сбросил соединение (SocketException)
+2026-04-10 20:22:07.581 [main] INFO  server.Server - Клиент подключен: /127.0.0.1:59868
+2026-04-10 20:34:09.953 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 20:34:09.962 [main] INFO  server.manager.FileManager - Из файла успешно загружено элементов: 0
+2026-04-10 20:34:09.962 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 20:34:09.966 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 20:34:10.030 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 20:34:10.032 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступные команды: save, exit
+2026-04-10 20:34:15.871 [main] INFO  server.Server - Установлено новое соединение: /127.0.0.1:54233
+2026-04-10 20:34:22.697 [main] INFO  server.Server - Выполнение команды 'show' от клиента /127.0.0.1:54233
+2026-04-10 20:34:22.697 [main] INFO  server.commands.ShowCommand - Запрос на отображение всей коллекции.
+2026-04-10 20:34:22.697 [main] INFO  server.commands.ShowCommand - Коллекция пуста.
+2026-04-10 20:34:22.699 [main] INFO  server.Server - Ответ успешно отправлен на /127.0.0.1:54233
+2026-04-10 20:34:26.806 [main] INFO  server.Server - Выполнение команды 'help' от клиента /127.0.0.1:54233
+2026-04-10 20:34:26.809 [main] INFO  server.Server - Ответ успешно отправлен на /127.0.0.1:54233
+2026-04-10 20:34:52.657 [main] INFO  server.Server - Выполнение команды 'insert' от клиента /127.0.0.1:54233
+2026-04-10 20:34:52.659 [main] INFO  server.commands.InsertCommand - Добавлен новый дракон: ключ 3, ID 1, имя 'ds'.
+2026-04-10 20:34:52.662 [main] INFO  server.Server - Ответ успешно отправлен на /127.0.0.1:54233
+2026-04-10 20:34:59.014 [main] INFO  server.Server - Выполнение команды 'show' от клиента /127.0.0.1:54233
+2026-04-10 20:34:59.016 [main] INFO  server.commands.ShowCommand - Запрос на отображение всей коллекции.
+2026-04-10 20:34:59.016 [main] INFO  server.commands.ShowCommand - Коллекция успешно подготовлена для отправки клиенту. Элементов: 1
+2026-04-10 20:34:59.020 [main] ERROR server.Server - Ошибка при чтении данных от клиента: java.util.TreeMap$Values
+2026-04-10 20:35:16.749 [Thread-0] INFO  server.commands.SaveCommand - Начало процесса сохранения коллекции...
+2026-04-10 20:35:16.752 [Thread-0] INFO  server.manager.FileManager - Коллекция успешно сохранена в файл: dragons.xml
+2026-04-10 20:35:16.752 [Thread-0] INFO  server.commands.SaveCommand - Коллекция успешно сохранена. Элементов обработано: 1
+2026-04-10 20:35:16.752 [Thread-0] INFO  server.Server - Коллекция принудительно сохранена сервером.
+2026-04-10 20:40:51.670 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 20:40:51.681 [main] INFO  server.manager.FileManager - Из файла успешно загружено элементов: 1
+2026-04-10 20:40:51.682 [main] INFO  server.manager.CollectionManager - Загружено элементов: 1
+2026-04-10 20:40:51.685 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 20:40:51.760 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 20:40:51.764 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступные команды: save, exit
+2026-04-10 20:40:56.825 [main] INFO  server.Server - Установлено новое соединение: /127.0.0.1:59483
+2026-04-10 20:41:02.080 [main] INFO  server.Server - Выполнение команды 'ы' от клиента /127.0.0.1:59483
+2026-04-10 20:41:02.083 [main] INFO  server.Server - Ответ успешно отправлен на /127.0.0.1:59483
+2026-04-10 20:41:05.107 [main] INFO  server.Server - Выполнение команды 'show' от клиента /127.0.0.1:59483
+2026-04-10 20:41:05.109 [main] INFO  server.commands.ShowCommand - Запрос на отображение всей коллекции.
+2026-04-10 20:41:05.109 [main] INFO  server.commands.ShowCommand - Коллекция успешно подготовлена для отправки клиенту. Элементов: 1
+2026-04-10 20:41:05.112 [main] INFO  server.Server - Ответ успешно отправлен на /127.0.0.1:59483
+2026-04-10 20:41:15.573 [main] INFO  server.Server - Выполнение команды 'help' от клиента /127.0.0.1:59483
+2026-04-10 20:41:15.577 [main] INFO  server.Server - Ответ успешно отправлен на /127.0.0.1:59483
+2026-04-10 20:41:24.843 [main] INFO  server.Server - Выполнение команды 'info' от клиента /127.0.0.1:59483
+2026-04-10 20:41:24.843 [main] INFO  server.commands.InfoCommand - Запрос информации о коллекции.
+2026-04-10 20:41:24.845 [main] INFO  server.Server - Ответ успешно отправлен на /127.0.0.1:59483
+2026-04-10 20:42:01.532 [main] INFO  server.Server - Выполнение команды 'clear' от клиента /127.0.0.1:59483
+2026-04-10 20:42:01.532 [main] INFO  server.commands.ClearCommand - Коллекция очищена. Удалено элементов: 1
+2026-04-10 20:42:01.532 [main] INFO  server.Server - Ответ успешно отправлен на /127.0.0.1:59483
+2026-04-10 20:42:08.318 [Thread-0] INFO  server.commands.SaveCommand - Начало процесса сохранения коллекции...
+2026-04-10 20:42:08.320 [Thread-0] INFO  server.manager.FileManager - Коллекция успешно сохранена в файл: dragons.xml
+2026-04-10 20:42:08.320 [Thread-0] INFO  server.commands.SaveCommand - Коллекция успешно сохранена. Элементов обработано: 0
+2026-04-10 20:42:08.320 [Thread-0] INFO  server.Server - Коллекция принудительно сохранена сервером.
+2026-04-10 20:42:12.797 [Thread-0] INFO  server.commands.SaveCommand - Начало процесса сохранения коллекции...
+2026-04-10 20:42:12.798 [Thread-0] INFO  server.manager.FileManager - Коллекция успешно сохранена в файл: dragons.xml
+2026-04-10 20:42:12.798 [Thread-0] INFO  server.commands.SaveCommand - Коллекция успешно сохранена. Элементов обработано: 0
+2026-04-10 20:42:12.798 [Thread-0] INFO  server.Server - Коллекция принудительно сохранена сервером.
+2026-04-10 20:42:12.799 [main] INFO  server.Server - Работа сервера завершена.
+2026-04-10 21:10:02.562 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 21:10:02.567 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 21:10:02.567 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 21:10:02.570 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 21:10:02.638 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 21:10:02.641 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступные команды: save, exit
+2026-04-10 21:12:52.847 [main] WARN  server.Main - Переменная среды DRAGON_FILE не задана. Используется: dragons.xml
+2026-04-10 21:12:52.852 [main] WARN  server.manager.FileManager - Файл dragons.xml не найден. Будет создана пустая коллекция.
+2026-04-10 21:12:52.852 [main] INFO  server.manager.CollectionManager - Загружено элементов: 0
+2026-04-10 21:12:52.855 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 21:12:52.924 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 21:12:52.927 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступные команды: save, exit
+2026-04-10 21:16:24.964 [main] INFO  server.manager.FileManager - Из файла успешно загружено элементов: 4
+2026-04-10 21:16:24.966 [main] INFO  server.manager.CollectionManager - Загружено элементов: 4
+2026-04-10 21:16:24.971 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 21:16:25.047 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 21:16:25.049 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступные команды: save, exit
+2026-04-10 21:16:32.209 [main] INFO  server.manager.FileManager - Из файла успешно загружено элементов: 4
+2026-04-10 21:16:32.212 [main] INFO  server.manager.CollectionManager - Загружено элементов: 4
+2026-04-10 21:16:32.215 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 21:16:32.282 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 21:16:32.284 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступные команды: save, exit
+2026-04-10 23:31:08.710 [main] INFO  server.manager.FileManager - Из файла успешно загружено элементов: 4
+2026-04-10 23:31:08.713 [main] INFO  server.manager.CollectionManager - Загружено элементов: 4
+2026-04-10 23:31:08.720 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 23:31:08.808 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 23:31:08.813 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступные команды: save, exit
+2026-04-10 23:31:19.153 [main] INFO  server.manager.FileManager - Из файла успешно загружено элементов: 4
+2026-04-10 23:31:19.158 [main] INFO  server.manager.CollectionManager - Загружено элементов: 4
+2026-04-10 23:31:19.165 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 23:31:19.289 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 23:31:19.293 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступные команды: save, exit
+2026-04-10 23:31:52.970 [main] INFO  server.manager.FileManager - Из файла успешно загружено элементов: 4
+2026-04-10 23:31:52.973 [main] INFO  server.manager.CollectionManager - Загружено элементов: 4
+2026-04-10 23:31:52.979 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 23:31:53.092 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 23:31:53.098 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступные команды: save, exit
+2026-04-10 23:37:46.909 [main] INFO  server.manager.FileManager - Из файла успешно загружено элементов: 4
+2026-04-10 23:37:46.913 [main] INFO  server.manager.CollectionManager - Загружено элементов: 4
+2026-04-10 23:37:46.920 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 23:37:47.039 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 23:37:47.043 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступные команды: save, exit
+2026-04-10 23:38:26.234 [main] INFO  server.manager.FileManager - Из файла успешно загружено элементов: 4
+2026-04-10 23:38:26.238 [main] INFO  server.manager.CollectionManager - Загружено элементов: 4
+2026-04-10 23:38:26.244 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 23:38:26.353 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 23:38:26.357 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступные команды: save, exit
+2026-04-10 23:38:36.846 [main] INFO  server.manager.FileManager - Из файла успешно загружено элементов: 4
+2026-04-10 23:38:36.849 [main] INFO  server.manager.CollectionManager - Загружено элементов: 4
+2026-04-10 23:38:36.854 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 23:38:36.975 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 23:38:36.980 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступные команды: save, exit
+2026-04-10 23:43:23.575 [main] INFO  server.manager.FileManager - Из файла успешно загружено элементов: 4
+2026-04-10 23:43:23.578 [main] INFO  server.manager.CollectionManager - Загружено элементов: 4
+2026-04-10 23:43:23.584 [main] INFO  server.Main - Инициализация сетевого модуля...
+2026-04-10 23:43:23.699 [main] INFO  server.Server - Сервер успешно запущен на порту 8080
+2026-04-10 23:43:23.703 [Thread-0] INFO  server.Server - Консоль сервера готова. Доступные команды: save, exit
+2026-04-10 23:43:42.402 [main] INFO  server.Server - Установлено новое соединение: /127.0.0.1:58334
+2026-04-10 23:43:50.395 [main] INFO  server.Server - Выполнение команды 'help' от клиента /127.0.0.1:58334
+2026-04-10 23:43:50.402 [main] INFO  server.Server - Ответ успешно отправлен на /127.0.0.1:58334
+2026-04-10 23:43:54.386 [main] ERROR server.Server - Ошибка при чтении данных от клиента: Connection reset
