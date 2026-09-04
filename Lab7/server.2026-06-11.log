@@ -1,0 +1,7 @@
+2026-06-11 17:53:07.560 [main] ERROR server.Main - Критическая ошибка инициализации: The server requested SCRAM-based authentication, but no password was provided.
+2026-06-11 17:53:34.518 [main] INFO  server.Main - Коллекция загружена из БД. Элементов: 1
+2026-06-11 17:53:34.533 [main] INFO  server.Server - Сервер запущен на порту 8080.
+2026-06-11 18:06:59.638 [main] INFO  server.Main - Коллекция загружена из БД. Элементов: 1
+2026-06-11 18:06:59.649 [main] INFO  server.Server - Сервер запущен на порту 8080.
+2026-06-11 19:31:57.319 [main] INFO  server.Main - Коллекция загружена из БД. Элементов: 1
+2026-06-11 19:31:57.343 [main] INFO  server.Server - Сервер запущен на порту 8080.
